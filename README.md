@@ -1,5 +1,10 @@
 https://twitter.com/rakesh314/status/931504992330047489
 
+Install:
+```
+npm install delay2
+```
+
 Usage:
 ```javascript
 await delay(1000); // wait a sec
