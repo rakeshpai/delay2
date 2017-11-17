@@ -12,10 +12,11 @@ await delay(1000); // wait a sec
 ```
 
 With promises:
-```
+Get with the times. Alternatively, 
+```javascript
 delay(1000).then(whatever);
 ```
 
-Node 7.x+ only - async/await support needed.
+Node 4+ needed (needs native promise support).
 
 License: wut?
